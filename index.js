@@ -26,5 +26,3 @@ function deepestChild() {
     }
   }
 }
-
-deepestChild();
